@@ -57,5 +57,3 @@ while start_calculation:
             print("Please re-enter a correct number")
     except ValueError:
         print("Please enter an integer")
-
-print("hahahah")
